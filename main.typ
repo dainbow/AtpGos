@@ -33,3 +33,5 @@
 #include "./themes/12.typ"
 #include "./themes/13.typ"
 #include "./themes/14.typ"
+#include "./themes/15.typ"
+#include "./themes/16.typ"
