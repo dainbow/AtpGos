@@ -1,0 +1,19 @@
+#import "conf.typ": *
+
+#let title = [
+  АТП Гос (ИВТ: Формалки + Оси)
+]
+
+#show: doc => conf(title, doc)
+
+#align(
+  center,
+  text(17pt)[
+    *#title*
+  ],
+)
+
+#align(center)[
+  *Disclaymer*: доверять этому конспекту или нет выбирайте сами
+]
+
