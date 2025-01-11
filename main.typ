@@ -39,3 +39,5 @@
 #include "./themes/18.typ"
 #include "./themes/19.typ"
 #include "./themes/20.typ"
+#include "./themes/21.typ"
+#include "./themes/22.typ"
