@@ -47,3 +47,5 @@
 #include "./themes/23.typ"
 #include "./themes/24.typ"
 #include "./themes/25.typ"
+#include "./themes/26.typ"
+#include "./themes/27.typ"
