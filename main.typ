@@ -49,3 +49,9 @@
 #include "./themes/25.typ"
 #include "./themes/26.typ"
 #include "./themes/27.typ"
+
+= Операционные системы, параллельные и распределённые вычисления
+
+#include "./themes/28.typ"
+#include "./themes/29.typ"
+#include "./themes/30.typ"
