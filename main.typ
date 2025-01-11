@@ -41,3 +41,9 @@
 #include "./themes/20.typ"
 #include "./themes/21.typ"
 #include "./themes/22.typ"
+
+= Формальные языки и трансляции
+
+#include "./themes/23.typ"
+#include "./themes/24.typ"
+#include "./themes/25.typ"

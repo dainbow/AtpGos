@@ -35,6 +35,8 @@
 
 #let algo = "п.в.м.Т"
 
+#let angles(cont) = $angle.l #cont angle.r$
+
 #let epigraph(phrase, author) = align(right)[
   #text(font: "DejaVu Sans Mono")[
     #phrase
